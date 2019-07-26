@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "471342225142",
+    "firebase_url": "https://flutter-events-workshop-c023b.firebaseio.com",
+    "project_id": "flutter-events-workshop-c023b",
+    "storage_bucket": "flutter-events-workshop-c023b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471342225142:android:072b48f3c7cbda3e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471342225142-4sr8hpfn997ip86vf0vck5hc9td0i0fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVVS-pwmjpgmyQN57XNwbVkEDLmvpyLMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471342225142-4sr8hpfn997ip86vf0vck5hc9td0i0fi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
